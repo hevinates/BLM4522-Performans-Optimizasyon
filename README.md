@@ -20,7 +20,6 @@ Bu proje; ağ tabanlı dağıtık sistemlerde veri yoğunluğunun yönetilmesi, 
 | :------------- | :-------------------------------------------------------------------------------------- |
 | `sql_scripts/` | Veritabanı şeması, 550.000 kayıt üreten fonksiyonlar ve İndeks/Rol tanımlama scriptleri |
 | `screenshots/` | Optimizasyon öncesi/sonrası Execution Plan kanıtları ve terminal operasyon çıktıları    |
-| `docs/`        | Sistemin detaylı teknik mimarisini anlatan Proje Analiz Raporu (PDF)                    |
 
 ---
 
